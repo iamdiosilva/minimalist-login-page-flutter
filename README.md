@@ -1,4 +1,4 @@
-# crud_consult_app
+# minimalist login page
 
 A new Flutter project.
 
