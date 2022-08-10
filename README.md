@@ -1,6 +1,9 @@
 # minimalist login page
 
+<img src="https://user-images.githubusercontent.com/65866387/183784298-6f5f18b0-bb68-4317-9243-badf3e3a9f65.gif">
+
 A new Flutter project.
+
 
 ## Getting Started
 
